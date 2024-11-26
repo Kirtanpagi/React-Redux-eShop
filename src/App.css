@@ -1,0 +1,19 @@
+.bg-color{
+  background-color: #ff9f00 !important;
+}
+
+.img-style{
+  width: 100% !important;
+  height: 350px !important;
+  object-fit: contain !important;
+}
+
+.image-style-cart{
+  width: 100% !important;
+  height: 450px !important;
+  object-fit: contain;
+}
+
+.btn-color{
+  background-color: #ff9f00 !important;
+}
